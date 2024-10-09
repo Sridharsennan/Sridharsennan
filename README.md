@@ -7,7 +7,7 @@ BGV Executive @Hexaware Technologies
 - 🤔 I’m looking for help with Placements in any companies as a Data/Business Analyst
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/sridhar-sennan-4b73752b5)
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />] (https://www.linkedin.com/in/sridhar-sennan-4b73752b5/)
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Hindi.
 
